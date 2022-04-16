@@ -16,6 +16,7 @@ Example:
 const firstName = "Charles";
 
 const firstLetter = firstName[0];
+
 firstLetter would have a value of the string C.
 
 Use bracket notation to find the first character in the lastName variable and assign it to firstLetterOfLastName.

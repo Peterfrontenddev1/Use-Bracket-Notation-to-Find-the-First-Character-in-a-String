@@ -9,7 +9,8 @@ They start at 0. This is referred to as Zero-based indexing.
 
 For example, the character at index 0 in the word Charles is C. 
 
-So if const firstName = "Charles", you can get the value of the first letter of the string by using firstName[0].
+So if const firstName = "Charles", 
+you can get the value of the first letter of the string by using firstName[0].
 
 Example:
 

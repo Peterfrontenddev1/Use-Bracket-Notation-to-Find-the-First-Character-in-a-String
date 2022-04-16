@@ -13,6 +13,7 @@ So if const firstName = "Charles", you can get the value of the first letter of 
 Example:
 
 const firstName = "Charles";
+
 const firstLetter = firstName[0];
 firstLetter would have a value of the string C.
 
